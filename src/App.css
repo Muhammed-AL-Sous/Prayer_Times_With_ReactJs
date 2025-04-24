@@ -1,0 +1,50 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  direction: rtl;
+}
+
+/* Custom Font */
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("../public/fonts/Tajawal-ExtraLight.ttf");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Tajawal";
+  src: url("../public/fonts/Tajawal-Light.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Tajawal";
+  src: url("../public/fonts/Tajawal-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Tajawal";
+  src: url("../public/fonts/Tajawal-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("../public/fonts/Tajawal-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("../public/fonts/Tajawal-ExtraBold.ttf");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("../public/fonts/Tajawal-Black.ttf");
+  font-weight: 900;
+}
+
+/*==== Custom Font ====*/
