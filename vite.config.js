@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/pryer_times_with_react_and_api/",
+ base: '/Prayer_Times_With_ReactJs/',
   plugins: [react()],
 });
