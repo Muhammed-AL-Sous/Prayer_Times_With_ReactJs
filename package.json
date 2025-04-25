@@ -1,7 +1,10 @@
 {
   "name": "prayers_times_with_react_and_api",
   "homepage": "https://muhammed-al-sous.github.io/Prayer_Times_With_ReactJs",
+<<<<<<< HEAD
   "description": "A simple React application that displays prayer times using an external",
+=======
+>>>>>>> 5b37c3422fbb33234d65db1e60115a7af6c1fb51
   "private": true,
   "version": "0.0.0",
   "type": "module",
